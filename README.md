@@ -1,1 +1,1 @@
-# TodoList webApp using polymer.js
+# todolist webapp using polymer.js
